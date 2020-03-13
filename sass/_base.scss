@@ -1,7 +1,5 @@
 /* VARIABLES */
 
-/* Colors */
-
 :root {
   --color-primary: #eb2f64;
   --color-primary-light: #ff3366;
@@ -17,6 +15,7 @@
   --color-grey-dark-3: #999;
 
   --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+  --shadow-light: box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.06);
 }
 
 /* base style */
